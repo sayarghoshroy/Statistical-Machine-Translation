@@ -1,5 +1,7 @@
 # Statistical Machine Translation
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sayarghoshroy/Statistical-Machine-Translation/blob/master/SMT_English_to_Hindi.ipynb)
+
 ---
 
 ### A simple SMT system for English to Hindi
